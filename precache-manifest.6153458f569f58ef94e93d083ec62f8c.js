@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4e88ec77261ee0e586374db58e08da9",
+    "revision": "c66cbcec78a508b73f5f9b9592fd3097",
     "url": "/Chameleon/index.html"
   },
   {
