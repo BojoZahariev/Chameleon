@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/BojoZahariev/Chameleon/static/css/main.0d3c3e27.chunk.css",
-    "main.js": "/BojoZahariev/Chameleon/static/js/main.0ddc584f.chunk.js",
-    "main.js.map": "/BojoZahariev/Chameleon/static/js/main.0ddc584f.chunk.js.map",
-    "runtime-main.js": "/BojoZahariev/Chameleon/static/js/runtime-main.5f80e132.js",
-    "runtime-main.js.map": "/BojoZahariev/Chameleon/static/js/runtime-main.5f80e132.js.map",
-    "static/js/2.e52c3dbe.chunk.js": "/BojoZahariev/Chameleon/static/js/2.e52c3dbe.chunk.js",
-    "static/js/2.e52c3dbe.chunk.js.map": "/BojoZahariev/Chameleon/static/js/2.e52c3dbe.chunk.js.map",
-    "index.html": "/BojoZahariev/Chameleon/index.html",
-    "precache-manifest.8da529dfeb351edb5376e43aed879a1a.js": "/BojoZahariev/Chameleon/precache-manifest.8da529dfeb351edb5376e43aed879a1a.js",
-    "service-worker.js": "/BojoZahariev/Chameleon/service-worker.js",
-    "static/css/main.0d3c3e27.chunk.css.map": "/BojoZahariev/Chameleon/static/css/main.0d3c3e27.chunk.css.map",
-    "static/js/2.e52c3dbe.chunk.js.LICENSE": "/BojoZahariev/Chameleon/static/js/2.e52c3dbe.chunk.js.LICENSE"
+    "main.css": "/Chameleon/static/css/main.0d3c3e27.chunk.css",
+    "main.js": "/Chameleon/static/js/main.0ddc584f.chunk.js",
+    "main.js.map": "/Chameleon/static/js/main.0ddc584f.chunk.js.map",
+    "runtime-main.js": "/Chameleon/static/js/runtime-main.353a4b07.js",
+    "runtime-main.js.map": "/Chameleon/static/js/runtime-main.353a4b07.js.map",
+    "static/js/2.e52c3dbe.chunk.js": "/Chameleon/static/js/2.e52c3dbe.chunk.js",
+    "static/js/2.e52c3dbe.chunk.js.map": "/Chameleon/static/js/2.e52c3dbe.chunk.js.map",
+    "index.html": "/Chameleon/index.html",
+    "precache-manifest.5b71e212736c3ab696c966543b908452.js": "/Chameleon/precache-manifest.5b71e212736c3ab696c966543b908452.js",
+    "service-worker.js": "/Chameleon/service-worker.js",
+    "static/css/main.0d3c3e27.chunk.css.map": "/Chameleon/static/css/main.0d3c3e27.chunk.css.map",
+    "static/js/2.e52c3dbe.chunk.js.LICENSE": "/Chameleon/static/js/2.e52c3dbe.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f80e132.js",
+    "static/js/runtime-main.353a4b07.js",
     "static/js/2.e52c3dbe.chunk.js",
     "static/css/main.0d3c3e27.chunk.css",
     "static/js/main.0ddc584f.chunk.js"
