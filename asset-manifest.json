@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BojoZahariev/Chameleon/static/css/main.0d3c3e27.chunk.css",
+    "main.js": "/BojoZahariev/Chameleon/static/js/main.0ddc584f.chunk.js",
+    "main.js.map": "/BojoZahariev/Chameleon/static/js/main.0ddc584f.chunk.js.map",
+    "runtime-main.js": "/BojoZahariev/Chameleon/static/js/runtime-main.5f80e132.js",
+    "runtime-main.js.map": "/BojoZahariev/Chameleon/static/js/runtime-main.5f80e132.js.map",
+    "static/js/2.e52c3dbe.chunk.js": "/BojoZahariev/Chameleon/static/js/2.e52c3dbe.chunk.js",
+    "static/js/2.e52c3dbe.chunk.js.map": "/BojoZahariev/Chameleon/static/js/2.e52c3dbe.chunk.js.map",
+    "index.html": "/BojoZahariev/Chameleon/index.html",
+    "precache-manifest.bee787743d25da8e2d6b11c793562de9.js": "/BojoZahariev/Chameleon/precache-manifest.bee787743d25da8e2d6b11c793562de9.js",
+    "service-worker.js": "/BojoZahariev/Chameleon/service-worker.js",
+    "static/css/main.0d3c3e27.chunk.css.map": "/BojoZahariev/Chameleon/static/css/main.0d3c3e27.chunk.css.map",
+    "static/js/2.e52c3dbe.chunk.js.LICENSE": "/BojoZahariev/Chameleon/static/js/2.e52c3dbe.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f80e132.js",
+    "static/js/2.e52c3dbe.chunk.js",
+    "static/css/main.0d3c3e27.chunk.css",
+    "static/js/main.0ddc584f.chunk.js"
+  ]
+}
